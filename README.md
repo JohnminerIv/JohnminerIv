@@ -3,7 +3,7 @@
 <p align="left">    I am interested in using emerging technologies like machine learning, smart contracts, and virtual reality to bring about the next technological revolution.<p>
 
 
-<h2 align="left">You can find me:</h2>
+<h3 align="left">You can find me:</h3>
 
 
 <a href="https://www.linkedin.com/in/john-miner-61b95618a/">
@@ -11,7 +11,7 @@
 </a>
 <br>
 
-<h4 align="left">Profile stats</h4>
+<h3 align="left">Profile stats</h3>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=JohnminerIv&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
