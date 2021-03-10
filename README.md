@@ -5,11 +5,11 @@
 
 <h2 align="center">You can find me:</h2>
 
-<div>
-  <a align="center" href="https://www.linkedin.com/in/john-miner-61b95618a/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
-  </a>
-</div>
+
+<a align="center" href="https://www.linkedin.com/in/john-miner-61b95618a/">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
+</a>
+
 
 
 <h4 align="center">Profile stats</h4>
