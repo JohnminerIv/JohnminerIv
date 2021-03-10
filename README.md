@@ -13,6 +13,11 @@
 
 <h3 align="left">You can find me:</h3>
 
-<a href="https://www.linkedin.com/in/john-miner-61b95618a/">
-  <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/john-miner-61b95618a/">
+    <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
+  </a>
+  <a href="https://www.youtube.com/channel/UCClGu3v8_mcbYKkk7eIzJZg">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" height="30" width="30">
+  </a>
+</p>
