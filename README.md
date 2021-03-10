@@ -11,10 +11,10 @@
 </a>
 <br>
 
-<h3 align="left">Profile stats</h3>
+<h3 align="left">Profile stats:</h3>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=JohnminerIv&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<h2 align="left">Language Stats</h2>
+<h2 align="left">Language Stats:</h2>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnminerIv&langs_count=10&theme=tokyonight&layout=compact" /></p>
