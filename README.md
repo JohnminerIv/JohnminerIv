@@ -6,8 +6,8 @@
 <h2 align="center">You can find me:</h2>
 
 
-<a align="center" href="https://www.linkedin.com/in/john-miner-61b95618a/">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
+<a href="https://www.linkedin.com/in/john-miner-61b95618a/">
+  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
 </a>
 
 
