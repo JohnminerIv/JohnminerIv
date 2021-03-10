@@ -9,8 +9,7 @@
 <a href="https://www.linkedin.com/in/john-miner-61b95618a/">
   <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
 </a>
-
-
+<br>
 
 <h4 align="left">Profile stats</h4>
 
