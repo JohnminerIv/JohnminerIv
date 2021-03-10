@@ -1,4 +1,4 @@
-<h1 align="center">About me</h1>
+<h1 align="left">About me</h1>
 
 <p align="left">    I am interested in using emerging technologies like machine learning, smart contracts, and virtual reality to bring about the next technological revolution.<p>
 
@@ -7,15 +7,15 @@
 
 
 <a href="https://www.linkedin.com/in/john-miner-61b95618a/">
-  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
+  <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
 </a>
 
 
 
-<h4 align="center">Profile stats</h4>
+<h4 align="left">Profile stats</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JohnminerIv&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=JohnminerIv&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<h2 align="center">Language Stats</h2>
+<h2 align="left">Language Stats</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnminerIv&langs_count=10&theme=tokyonight&layout=compact" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnminerIv&langs_count=10&theme=tokyonight&layout=compact" /></p>
