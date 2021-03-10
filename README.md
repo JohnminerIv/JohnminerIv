@@ -3,7 +3,7 @@
 <p align="left">    I am interested in using emerging technologies like machine learning, smart contracts, and virtual reality to bring about the next technological revolution.<p>
 
 
-<h2 align="center">You can find me\:</h2>
+<h2 align="center">You can find me:</h2>
 
 <div>
   <a align="center" href="https://www.linkedin.com/in/john-miner-61b95618a/">
