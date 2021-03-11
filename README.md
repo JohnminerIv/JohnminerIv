@@ -20,4 +20,7 @@
   <a href="https://www.youtube.com/channel/UCClGu3v8_mcbYKkk7eIzJZg">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" height="30" width="30">
   </a>
+    <a href="https://john-the-fourth.engineer/">
+    <img src="abstract-user-flat-3.svg" height="30" width="30">
+  </a>
 </p>
